@@ -22,4 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Github Interview"
 include(":app")
 include(":domain")
-include(":Data")
+include(":data")
